@@ -2,7 +2,7 @@
 
 A 36-key ortholinear wireless split keyboard using Kailh PG1316S switches and two XIAO nRF52840 controllers. The selected design is a 17 mm-pitch open tray with a ≤7 mm height target. **It is not yet a validated, complete build kit.**
 
-[Read the buildbook](https://noshpotosh.github.io/ns-designer/) once Pages is enabled. Start with [build readiness](buildbook/chapters/readiness.md) before ordering parts.
+[Read the buildbook](https://noshpotosh.github.io/ns-designer/). Start with [build readiness](buildbook/chapters/readiness.md) before ordering parts.
 
 ## Read and edit
 
