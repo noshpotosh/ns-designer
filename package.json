@@ -7,7 +7,9 @@
   },
   "scripts": {
     "build": "node scripts/build.mjs",
-    "preview": "node scripts/preview.mjs"
+    "preview": "node scripts/preview.mjs",
+    "check": "npm run build && node scripts/check.mjs",
+    "check:browser": "node scripts/browser-check.mjs"
   },
   "dependencies": {
     "github-slugger": "2.0.0",
