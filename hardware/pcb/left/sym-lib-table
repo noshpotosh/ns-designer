@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "keeb")(type "KiCad")(uri "${KIPRJMOD}/../lib/keeb.kicad_sym")(options "")(descr "Project library"))
+)
